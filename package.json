@@ -1,0 +1,19 @@
+{
+  "name": "pedals-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshilthummar1982/Pedals-Up.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshilthummar1982/Pedals-Up/issues"
+  },
+  "homepage": "https://github.com/Harshilthummar1982/Pedals-Up#readme"
+}
